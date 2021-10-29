@@ -43,6 +43,7 @@ var dinero;
 var div=0;
 var papeles=0;
 var retirado=0;
+var prueba;
 
 var b=document.getElementById("extraer");
 b.addEventListener("click", entregarDinero);
