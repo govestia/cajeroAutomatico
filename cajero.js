@@ -42,6 +42,7 @@ caja.push(new Billete(10,2));
 var dinero;
 var div=0;
 var papeles=0;
+var retirado=0;
 
 var b=document.getElementById("extraer");
 b.addEventListener("click", entregarDinero);
